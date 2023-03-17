@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @kingkelv20
-- 👀 I’m interested in learning software Engineering
-- 🌱 I’m currently learning software Engineering with ALX
-- 💞️ I’m looking to collaborate with anyone that is ready to guide and share knowledge with me in this area
-- 📫 How to reach me anytime 
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+kingkelv20;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
+# Hi I'm Kelvin Agimogim.👋
 
-<!---
-kingkelv20/kingkelv20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### I am a Software Engineering student at ALX. `I learn by doing....`
+
+- #### 🔭 I’m currently working on my coding skills.
+- #### 👯 I’m open to collaborate on Software Engineering projects.
+
+# Contact : kelvinagimogim@gmail.com
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingkelv20&layout=compact)](https://github.com/Lordwill1/github-readme-stats)
+
+## QUESTION AND ANSWER WEBSITE 
+* [Stackoverflow](https://Stackoverflow.com/)
+* [GitHub](https://github.com/)
+
+
